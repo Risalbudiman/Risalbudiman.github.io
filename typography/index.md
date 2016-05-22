@@ -1,8 +1,7 @@
 ---
 layout: page
-title: ABOUT
+title: ABOUT ME
 ---
-###### About Me
 
 ### Biodata
 **Nama:Risal Budiman**<br>
