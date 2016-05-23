@@ -1,7 +1,7 @@
 ---
 layout: page
 featimg: 8.PNG
-title: Page
+title: islamic center Bangkinag 
 ---
 ## BANGKINANG
 
