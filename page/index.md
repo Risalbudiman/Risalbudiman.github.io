@@ -1,6 +1,6 @@
 ---
 layout: page
-featimg: 8.jpg
+featimg: 8.PNG
 title: Page
 ---
 ## BANGKINANG
