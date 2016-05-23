@@ -3,10 +3,7 @@ layout: page
 featimg: 8.jpg
 title: Page
 ---
-## This is a static page
+## BANGKINANG
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit voluptatibus, assumenda perspiciatis vel eos, molestias nisi cum accusantium commodi amet modi repellendus. Nostrum iure fugiat ducimus quae nesciunt distinctio ullam.
-
-Modi consequuntur, ex, quod optio perferendis delectus libero excepturi recusandae, odio earum consectetur obcaecati repellat atque natus dignissimos quidem laboriosam nisi est? Hic ex ullam aspernatur perferendis doloremque odit eius nostrum cumque repudiandae sapiente culpa voluptate qui quasi, nulla dolorum facilis ab.
-
-Excepturi atque fuga illum fugiat consequatur, obcaecati, quaerat voluptatibus! Consequuntur ut dolore impedit magni officiis a voluptatibus odio, assumenda obcaecati illo reprehenderit veniam totam dolorem optio iure eius corporis aspernatur inventore quia perspiciatis placeat ratione repellat! Voluptatem.
+Bangkinang (Jawi: بغكينغ‎), is the town near Pekanbaru. Bangkinang is the capital of Kampar Regency, Riau, which is 60 km from Pekanbaru (Riau provincial capital). As the capital of the district adjacent to the provincial capital and a connection to the area of West Sumatra. The majority of the population is Muslim Bangkinang.
+_sumber:Wikipedia.com_
