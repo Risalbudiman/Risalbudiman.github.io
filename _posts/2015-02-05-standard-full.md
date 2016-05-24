@@ -2,7 +2,7 @@
 author: person
 layout: post_full
 title: Wisata
-featimg: 2.jpg
+featimg: 2.JPG
 tags: [text]
 category: [standard]
 ---
